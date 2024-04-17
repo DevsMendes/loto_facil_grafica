@@ -22,7 +22,5 @@ Certifique-se de ter o Java instalado em sua máquina. Execute o arquivo compila
 
 David Mendes
 
-## Licença
 
-Este projeto está licenciado sob a [sua licença aqui].
 
